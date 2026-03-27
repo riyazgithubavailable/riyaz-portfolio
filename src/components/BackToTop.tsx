@@ -26,6 +26,4 @@ const BackToTop = () => {
     </button>
   )
 }
-
-
 export default BackToTop
